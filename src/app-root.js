@@ -29,6 +29,7 @@ export class AppRoot extends LitElement {
     return html`
       <div class="wrapper">
         <h1>LitElement + Snowpack</h1>
+        <h2>Editando a ver qué pasa</h2>
         <p>Edit <code>src/app-root.js</code> and save to reload.</p>
         <a
           class="link"
